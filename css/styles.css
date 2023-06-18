@@ -704,7 +704,6 @@ img {
   margin-bottom: 24px;
 }
 .check-text {
-  display: flex;
   align-items: center;
   font-size: 12px;
   line-height: 1.17;
